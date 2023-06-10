@@ -1,4 +1,4 @@
-A data analytics approach for COVID-19 spread and end prediction (with a case study in India)
+# A data analytics approach for COVID-19 spread and end prediction (with a case study in India)
 
 
 ## **Abstract**
